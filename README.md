@@ -1,6 +1,17 @@
 # individualproject
 
-A new Flutter project.
+Individual Lab Test Flutter project.
+
+# authentication
+
+there are three gmail and password are avalaible to use to login the application
+
+no.  gmail               password
+1.   wong@gmail.com      wong123
+2.   demo@gmail.com      demo123
+3.   apkdemo@gmail.com   apkdemo123
+
+Moreover, you can also click the text on homepage **"Don't have an account? Sign up"** that will navigate to sign in page to create your own account.
 
 ## Getting Started
 
