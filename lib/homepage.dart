@@ -75,7 +75,7 @@ class HomePage extends StatelessWidget {
                 },
                 child: Text('Login', style: TextStyle(color: Colors.white),),
                 style: ElevatedButton.styleFrom(
-                    backgroundColor: Colors.indigo, // 改变按钮背景颜色
+                    backgroundColor: Colors.indigo, 
                     padding: EdgeInsets.symmetric(horizontal: 20, vertical: 12),
                     textStyle: TextStyle(fontSize: 18),
                   ),
